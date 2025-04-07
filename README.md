@@ -1,3 +1,3 @@
-Ders: Algoritma ve Programlama (Prof. Fahri Vatansever)
+Ders: Algoritma ve Programlama (Prof. Dr. Fahri Vatansever)
 
-Prof. Fahri Vatansever hocanın 2024-2025 Algoritma ve Programlama Dersi lab. uygulamalarının çözümleri.
+Prof. Dr. Fahri Vatansever hocanın 2024-2025 Algoritma ve Programlama Dersi lab. uygulamalarının çözümleri.
